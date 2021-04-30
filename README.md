@@ -1,4 +1,4 @@
-# Introduction To Structured Query Language
+# SQL Databases Overview
 
 ## What is SQL?
 
